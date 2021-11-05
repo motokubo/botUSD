@@ -1,0 +1,80 @@
+[
+    {
+        "filename": "2020_1hour",
+        "date_init": "1 Jan, 2020",
+        "date_end": "31 Dec, 2020",
+        "interval": "1h",
+        "symbol": "BTCUSDC"
+    },
+    {
+        "filename": "2020_30minutes",
+        "date_init": "1 Jan, 2020",
+        "date_end": "31 Dec, 2020",
+        "interval": "30m",
+        "symbol": "BTCUSDC"
+    },
+    {
+        "filename": "2020_15minutes",
+        "date_init": "1 Jan, 2020",
+        "date_end": "31 Dec, 2020",
+        "interval": "15m",
+        "symbol": "BTCUSDC"
+    },
+    {
+        "filename": "2020_5minutes",
+        "date_init": "1 Jan, 2020",
+        "date_end": "31 Dec, 2020",
+        "interval": "5m",
+        "symbol": "BTCUSDC"
+    },
+    {
+        "filename": "2020_1minute",
+        "date_init": "1 Jan, 2020",
+        "date_end": "31 Dec, 2020",
+        "interval": "1m",
+        "symbol": "BTCUSDC"
+    },
+    
+    {
+        "filename": "alltime_1hour",
+        "date_init": "16 Aug, 2017",
+        "date_end": "20 Mar, 2021",
+        "interval": "1h",
+        "symbol": "BTCUSDT"
+    },
+    {
+        "filename": "alltime_30minutes",
+        "date_init": "16 Aug, 2017",
+        "date_end": "20 Mar, 2021",
+        "interval": "30m",
+        "symbol": "BTCUSDT"
+    },
+    {
+        "filename": "alltime_15minutes",
+        "date_init": "16 Aug, 2017",
+        "date_end": "20 Mar, 2021",
+        "interval": "15m",
+        "symbol": "BTCUSDT"
+    },
+    {
+        "filename": "alltime_5minutes",
+        "date_init": "16 Aug, 2017",
+        "date_end": "20 Mar, 2021",
+        "interval": "5m",
+        "symbol": "BTCUSDT"
+    },
+    {
+        "filename": "alltime_1minute",
+        "date_init": "16 Aug, 2017",
+        "date_end": "20 Mar, 2021",
+        "interval": "1m",
+        "symbol": "BTCUSDT"
+    },
+    {
+        "filename": "2019_1minute",
+        "date_init": "1 Jan, 2019",
+        "date_end": "31 Dec, 2019",
+        "interval": "1m",
+        "symbol": "BTCUSDT"
+    }
+]
