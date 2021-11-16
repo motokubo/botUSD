@@ -14,7 +14,7 @@ from datetime import date
 
 SOCKET = "wss://stream.binance.com:9443/ws/ethbtc@kline_1m"
 
-TRADE_START_BTC_TO_ETH_VALUE = 0.62
+TRADE_START_BTC_TO_ETH_VALUE = 0.575
 TRADE_SYMBOL = 'ETHBTC'
 BTC_USDC_SYMBOL = 'BTCUSDC'
 ETH_BTC_SYMBOL = 'ETHBTC'

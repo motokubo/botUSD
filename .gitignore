@@ -7,3 +7,4 @@ config.py
 *.db
 backtest/data/
 *.log
+*.cfg
